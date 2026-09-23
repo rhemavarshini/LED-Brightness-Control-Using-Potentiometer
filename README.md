@@ -48,4 +48,4 @@ The fixed resistor is included to limit the current and help protect the LED. In
 The LED brightness control circuit was successfully assembled and tested. Different levels of LED intensity were obtained by rotating the potentiometer. The experiment demonstrated that changing the resistance in the circuit can regulate the current through the LED and consequently change its brightness.
 11. Conclusion
 The project successfully demonstrates a simple method of controlling LED intensity through a potentiometer. The user can adjust the brightness manually without using software or complex electronic components. This project provides practical knowledge about variable resistance, current limitation, and LED operation and can serve as a basic model for adjustable lighting applications.
-[image](image)
+[image.jpg](image.jpg)
